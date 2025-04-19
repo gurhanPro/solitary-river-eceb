@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "solitary-river-eceb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e313221f-d270-47be-8916-60a4f23c7895",
+      "database_name": "quiet-leaf-403e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
